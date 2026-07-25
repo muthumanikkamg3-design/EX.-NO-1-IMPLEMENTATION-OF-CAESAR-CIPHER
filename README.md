@@ -95,8 +95,7 @@ int main()
  ~~~
 
 ## OUTPUT:
-
-<img width="1899" height="672" alt="AdobeExpressPhotos_58cac7234ab045249cdc902d666672ca_CopyEdited" src="https://github.com/user-attachments/assets/af17f298-db1c-49da-8d88-1dc11333b7f0" />
+<img width="1237" height="448" alt="image" src="https://github.com/user-attachments/assets/195f9be1-70c4-4dfa-8a1f-b03b8e9af1e1" />
 
 
 
